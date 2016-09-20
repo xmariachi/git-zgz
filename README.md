@@ -16,3 +16,5 @@ And now for the exercises. Ej 1. Commit 1. Commit 2. Commit 3.
 
 Ej 2. Commit 1. 
 Ej 2. Commit 2. 
+
+Change from exercise 3. 
